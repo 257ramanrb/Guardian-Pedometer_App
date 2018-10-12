@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ankurbhadauria.guardianproject.MainActivity">
+
+
+            <item android:title="Settings"
+                android:id="@+id/pd">
+            </item>
+            <item android:title="History"
+                android:id="@+id/pf"/>
+            <item android:title="Help"
+                android:id="@+id/td"/>
+            <item android:title="About"
+                android:id="@+id/ab"/>
+
+
+
+</menu>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Guardian</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str1"><big><big><big>0</big></big></big>\n<small>Steps</small></string>
+    <string name="str2">0.0 <small><small>m</small></small></string>
+    <string name="str3">GOAL: <b><big>10000 </big></b><small>Steps</small></string>
+    <string name="str4">0.0 <small><small>cal</small></small></string>
+    <string name="str5"><u>PREVIOUS WALK</u></string>
+    <string name="str6"><b>Date: </b><small>(DD-MM-YY)</small></string>
+    <string name="str7"><b>Starting Time: </b><small>(HH-MM-SS)</small></string>
+    <string name="str8"><b>Duration: </b><small>(HH-MM-SS)</small></string>
+    <string name="str9"><b>Distance: </b><small>(m)</small></string>
+    <string name="str10"><b>Calories Burned: </b><small>(cal)</small></string>
+    <string name="str11"><b>Steps Taken: </b><small>(steps)</small></string>
+    <string name="str12"><b>Goal: </b><small>(steps)</small></string>
+    <string name="str13"><b>Goal Achieved? : </b><small>(Yes/No)</small></string>
+    <string name="title_activity_help">Help</string>
+    <string name="large_text">
+        <b><big><big>"FAQ\n\n"</big></big></b>
+        <b><big>"How to use it?\n"</big></b>
+        "Click Start to count steps, distance traveled, calories burned and duration."
+        "Click Lock to disable the Stop button to avoid accidental pressing of Stop button and Unlock button to enable it."
+        "Click Pause button to pause the counting and play button to resume counting."
+        "You can edit details in settings for better accuracy.\n\n"
+         <b><big>"Step Count is not accurate?\n"</big></b>
+        "Every person has a different style and way of walking and the accuracy of step counts depends on it."
+        "Try to take a test walk and adjust the Sensitivity of pedometer in settings to increase the accuracy of step counts.\n\n"
+        <b><big>"Distance traveled is not accurate?\n"</big></b>
+        "Distance traveled is calculated using the step size and step size is automatically calculated with a formula using the "
+        "entered gender and height in the settings. If the calculated step size is not equal to your step size, you can manually "
+        "enter it in the edit text provided and save for more accurate calculation of distance traveled.\n\n"
+        <b><big>"Count Steps when shaking phone?\n"</big></b>
+        "If you shake your phone, it might be counted as steps because of the built-in sensor it uses.\nIt's not a bug :)\n\n"
+        <b><big>"Where and How to place it?\n"</big></b>
+        "Place your phone in your Jeans/Pant pocket in Upward position.\n\n"
+        <b><big>"How calories and distance is calculated?\n"</big></b>
+        "It uses your height, weight and gender to calculate your burned calories and distance."
+        "So please ensure you input accurate information in the settings.\n\n"
+        <b><big>"Changes made in Settings are not being reflected?\n"</big></b>
+        "After saving changes in settings, close the app and open it again."
+        "Values will automatically get updated.\n\n\n"
+        <b><big>"Happy Walking :)\n\n\n"</big></b>
+    </string>
+
+</resources>
+
